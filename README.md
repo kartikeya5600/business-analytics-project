@@ -19,6 +19,7 @@ The KT Sales Dashboard is a Power BI dashboard designed to visualize and analyze
 
 
 **Technologies Used**
+
 Power BI – For data visualization and interactive reporting.
 
 Excel / SQL Database (if applicable) – As the data source.
