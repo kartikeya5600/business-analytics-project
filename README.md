@@ -31,10 +31,11 @@ DAX (Data Analysis Expressions) – Used for calculations and custom measures.
 **SCREENSHOTS**
 
 DASHBOARD-
-https://github.com/kartikeya5600/sales-dashboard-project/blob/KT-enterprises/Images/main%20dashboard.png
-
-FORCASTING FOR 15 DAYS-
-https://github.com/kartikeya5600/sales-dashboard-project/blob/KT-enterprises/Images/forcasating%20.png
 
 ![main dashboard](https://github.com/user-attachments/assets/1dfc5a23-53ec-4858-9186-6ee12c6a6bbc)
+
+FORCASTING FOR 15 DAYS-
+
+![forcasating ](https://github.com/user-attachments/assets/bd3e43cc-f2eb-428e-bba4-03b33e33095d)
+
 
